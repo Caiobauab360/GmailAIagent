@@ -1,0 +1,15 @@
+# Agent Development Kit
+agent-development-kit
+
+# Google APIs
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+# Gemini API
+google-generativeai
+
+# Utilitários
+rich
+typing-extensions 

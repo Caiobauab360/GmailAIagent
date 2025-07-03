@@ -1,0 +1,16 @@
+# Google APIs
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+# Gemini API
+google-generativeai
+
+# CLI e Interface
+click>=8.0.0
+rich>=13.0.0
+python-dotenv>=1.0.0
+
+# Utilitários
+typing-extensions>=4.0.0 
